@@ -78,9 +78,9 @@ Concrete is a plastic material, and the lateral pressure distribution is neither
 
 #### A. CIRIA Method for calculating pressure<br>
 <img src="images/th1.png" height="220px"><br>
-<img src="images/th2.png" height="220px"><br>
-<img src="images/th3.png" height="220px"><br>
-<img src="images/th4.png" height="220px"><br>
+<img src="images/th2.png" height="380px"><br>
+<img src="images/th3.png" height="360px"><br>
+<img src="images/th4.png" height="260px"><br>
 </div>
 
 
