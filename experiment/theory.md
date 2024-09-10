@@ -87,7 +87,7 @@ Concrete is a plastic material, and the lateral pressure distribution is neither
 <div style="float: left; width:100%;">
 
 #### B. ACI Formula<br>
-<img src="images/th5.png" height="220px"><br>
+<img src="images/th5.png" height="90px"><br>
 </div>
 
 <div style="float: left; width:100%;">
