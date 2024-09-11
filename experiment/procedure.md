@@ -47,8 +47,8 @@ Material should withstand the load of wet concrete and the pressure imposed duri
 <div style="float: left; width:100%;">
 
 ##### 2. Economy<br>
-<b>Material cost:</b> The capital cost of the material for the formwork needs is the principal determinant, more so for the work within set budget constraints.
-<b>Labour cost:</b> Some materials, despite being inexpensive, tend to be labour-intensive, thus altering the material's total cost.
+<b>Material cost:</b> The capital cost of the material for the formwork needs is the principal determinant, more so for the work within set budget constraints.<br>
+<b>Labour cost:</b> Some materials, despite being inexpensive, tend to be labour-intensive, thus altering the material's total cost.<br>
 <b>Reuse potential:</b> Materials having a few reuses have a long-term savings.<br>
 </div>
 
