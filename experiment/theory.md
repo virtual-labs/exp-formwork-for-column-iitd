@@ -37,7 +37,7 @@ The basic idea of the components is that the load from the concrete and construc
 
 ##### Self-Weight of Formwork
 
-- IS 875 PART 1 if proper data is available or 500 N/m2 when data is not available<br>
+- IS 875 PART 1 if proper data is available or 500 N/m<sup>2</sup> when data is not available<br>
 - weight of any ancillary temporary work connected or supported by formwork, filling materials<br>
 - the weight of freshly placed concrete, including reinforcement steel.<br>
 </div>
